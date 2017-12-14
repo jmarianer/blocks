@@ -1,0 +1,26 @@
+{
+	"name": "crossword",
+	"version": "0.0.1",
+	"description": "A collaborative crossword-filling app",
+	"scripts": {
+		"start": "ts-node -O '{\"noImplicitAny\":true,\"jsx\":\"react\",\"typeRoots\":[\"types\"],\"baseUrl\":\"types\"}' server.ts"
+	},
+	"dependencies": {
+		"@types/express": "",
+		"express": "^4.12.4",
+		"ts-node": "",
+		"typescript": ">=2.0.0",
+		"typescript-simple": ""
+	},
+	"engines": {
+		"node": "6.11.1"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"license": "",
+	"devDependencies": {
+	  "lesshint": "^2.4.0",
+	  "tslint": "^4.3.1"
+	}
+}
