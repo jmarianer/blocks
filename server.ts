@@ -3,7 +3,7 @@ import * as express from 'express';
 
 // Pin generator
 const pinMainTemplate = `
-<svg width="635px" height="635px" viewBox="-305 -305 610 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="40px" height="40px" viewBox="-305 -305 610 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <circle stroke="#000000" stroke-width="10" fill="#COLOR" cx="0" cy="0" r="300"/>
   BLOCKS
 </svg>
