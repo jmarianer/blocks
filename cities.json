@@ -1,0 +1,242 @@
+{
+  "Istanbul": {
+    "color": "k",
+    "lng": 28.9783589,
+    "lat": 41.0082376
+  },
+  "Sydney": {
+    "color": "r",
+    "lat": -33.8688197,
+    "lng": 151.2092955
+  },
+  "Buenos Aires": {
+    "color": "y",
+    "lat": -34.6036844,
+    "lng": -58.3815591
+  },
+  "Lagos": {
+    "color": "y",
+    "lng": 3.3792057,
+    "lat": 6.5243793
+  },
+  "Osaka": {
+    "color": "r",
+    "lng": 135.5021651,
+    "lat": 34.6937378
+  },
+  "Madrid": {
+    "color": "b",
+    "lat": 40.4167754,
+    "lng": -3.7037902
+  },
+  "Bogota": {
+    "color": "y",
+    "lng": -74.072092,
+    "lat": 4.7109886
+  },
+  "Paris": {
+    "color": "b",
+    "lng": 2.3522219,
+    "lat": 48.856614
+  },
+  "Los Angeles": {
+    "color": "y",
+    "lat": 34.0522342,
+    "lng": -118.2436849
+  },
+  "Chennai": {
+    "color": "k",
+    "lat": 13.0826802,
+    "lng": 80.2707184
+  },
+  "Atlanta": {
+    "color": "b",
+    "lat": 33.7489954,
+    "lng": -84.3879824
+  },
+  "St. Petersburg": {
+    "color": "b",
+    "lat": 59.9342802,
+    "lng": 30.3350986
+  },
+  "Essen": {
+    "color": "b",
+    "lng": 7.0115552,
+    "lat": 51.4556432
+  },
+  "Baghdad": {
+    "color": "k",
+    "lng": 44.3614875,
+    "lat": 33.3128057
+  },
+  "Algiers": {
+    "color": "k",
+    "lat": 36.753768,
+    "lng": 3.0587561
+  },
+  "Kolkata": {
+    "color": "k",
+    "lat": 22.572646,
+    "lng": 88.363895
+  },
+  "Jakarta": {
+    "color": "r",
+    "lat": -6.17511,
+    "lng": 106.8650395
+  },
+  "Hong Kong": {
+    "color": "r",
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  "Johannesburg": {
+    "color": "y",
+    "lat": -26.2041028,
+    "lng": 28.0473051
+  },
+  "Kinshasa": {
+    "color": "y",
+    "lng": 15.2662931,
+    "lat": -4.4419311
+  },
+  "Montreal": {
+    "color": "b",
+    "lat": 45.5016889,
+    "lng": -73.567256
+  },
+  "Mumbai": {
+    "color": "k",
+    "lat": 19.0759837,
+    "lng": 72.8776559
+  },
+  "Riyadh": {
+    "color": "k",
+    "lat": 24.7135517,
+    "lng": 46.6752957
+  },
+  "Chicago": {
+    "color": "b",
+    "lat": 41.8781136,
+    "lng": -87.6297982
+  },
+  "Karachi": {
+    "color": "k",
+    "lat": 25.0700428,
+    "lng": 67.2847875
+  },
+  "Khartoom": {
+    "color": "y",
+    "lat": 15.5006544,
+    "lng": 32.5598994
+  },
+  "Beijing": {
+    "color": "r",
+    "lat": 39.9041999,
+    "lng": 116.4073963
+  },
+  "Cairo": {
+    "color": "k",
+    "lat": 30.0444196,
+    "lng": 31.2357116
+  },
+  "Mexico City": {
+    "color": "y",
+    "lat": 19.4326077,
+    "lng": -99.133208
+  },
+  "Seoul": {
+    "color": "r",
+    "lat": 37.566535,
+    "lng": 126.9779692
+  },
+  "Sao Paulo": {
+    "color": "y",
+    "lng": -46.6333094,
+    "lat": -23.5505199
+  },
+  "Santiago": {
+    "color": "y",
+    "lng": -70.6692655,
+    "lat": -33.4488897
+  },
+  "London": {
+    "color": "b",
+    "lat": 51.5073509,
+    "lng": -0.1277583
+  },
+  "San Francisco": {
+    "color": "b",
+    "lat": 37.7749295,
+    "lng": -122.4194155
+  },
+  "Milan": {
+    "color": "b",
+    "lng": 9.189982,
+    "lat": 45.4642035
+  },
+  "Manila": {
+    "color": "r",
+    "lat": 14.5995124,
+    "lng": 120.9842195
+  },
+  "Bangkok": {
+    "color": "r",
+    "lat": 13.7563309,
+    "lng": 100.5017651
+  },
+  "New York": {
+    "color": "b",
+    "lng": -74.0059728,
+    "lat": 40.7127753
+  },
+  "Washington DC": {
+    "color": "b",
+    "lng": -77.0368707,
+    "lat": 38.9071923
+  },
+  "Tehran": {
+    "color": "k",
+    "lat": 35.6891975,
+    "lng": 51.3889736
+  },
+  "Tokyo": {
+    "color": "r",
+    "lng": 139.6917064,
+    "lat": 35.6894875
+  },
+  "Lima": {
+    "color": "y",
+    "lat": -12.0463731,
+    "lng": -77.042754
+  },
+  "Moscow": {
+    "color": "k",
+    "lat": 55.755826,
+    "lng": 37.6172999
+  },
+  "Delhi": {
+    "color": "k",
+    "lat": 28.7040592,
+    "lng": 77.1024902
+  },
+  "Miami": {
+    "color": "y",
+    "lng": -80.1917902,
+    "lat": 25.7616798
+  },
+  "Shanghai": {
+    "color": "r",
+    "lat": 31.2303904,
+    "lng": 121.4737021
+  },
+  "Taipei": {
+    "color": "r",
+    "lat": 25.0329694,
+    "lng": 121.5654177
+  },
+  "Ho Chi Minh City": {
+    "color": "r",
+    "lat": 10.8230989,
+    "lng": 106.6296638
+  }
+}
